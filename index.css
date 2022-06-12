@@ -642,3 +642,19 @@ footer{
         margin-bottom: 1rem;
     }
 }
+
+@media only screen and (max-width: 480px){
+    footer{
+        max-width: 100%;
+        min-width: 50%;
+        max-height: 100%;
+        min-height: 10%;
+        font-size: .750em;
+        min-height: 1rem;
+        max-height: 2rem;
+    }
+    .copyright,
+    .designed{
+        margin-bottom: 1rem;
+    }
+}
